@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153789531042",
+    "project_id": "cal-app-v2",
+    "storage_bucket": "cal-app-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153789531042:android:f7c26116a6a6786e2068fb",
+        "android_client_info": {
+          "package_name": "packagecom.example.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbKUPMcVI69gnh43XQYsCq6kHT4o5JWB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
